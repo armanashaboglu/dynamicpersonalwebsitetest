@@ -1,0 +1,47 @@
+.introduction-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .input-field {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: calc(100% - 22px);
+  }
+  
+  .save-cancel-buttons button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .save-cancel-buttons button:first-child {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .save-cancel-buttons button:last-child {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .edit-button {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
